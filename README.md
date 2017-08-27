@@ -6,4 +6,6 @@ Hi, I'm building my a culculator app in swift, but I have a 2 questions....
 
 2. I can't figure out which constraints to add to all the buttons...
 
+Can somebody please help me with this?
 
+Thank you
